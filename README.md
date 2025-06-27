@@ -1,1 +1,0 @@
-# shahareath-youtube-script-frontend
